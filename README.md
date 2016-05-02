@@ -15,7 +15,7 @@
 
 
 ###Documents
-*테이블 정의서
-*JSON 정의서
-*ERD
-*RESTful API 정의서
+* 테이블 정의서
+* JSON 정의서
+* ERD
+* RESTful API 정의서
